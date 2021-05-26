@@ -100,7 +100,7 @@
 
 (1)所有的鸽子都是鸟;
 
-![QQ截图20210526080519](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//QQ%E6%88%AA%E5%9B%BE20210526080519.png)
+![QQ截图20210526121639](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//QQ%E6%88%AA%E5%9B%BE20210526121639.png)
 
 (2)所有的鸽子都有翅膀;
 
