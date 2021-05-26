@@ -100,7 +100,7 @@
 
 (1)所有的鸽子都是鸟;
 
-![image-20210520170242803](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210520170242803.png)
+![QQ截图20210526080519](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//QQ%E6%88%AA%E5%9B%BE20210526080519.png)
 
 (2)所有的鸽子都有翅膀;
 
@@ -109,6 +109,10 @@
 (3)信鸽是一种鸽子,它有翅膀,能识途。
 
 ![image-20210520170457921](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210520170457921.png)
+
+**总图：**
+
+![QQ截图20210526080430](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//QQ%E6%88%AA%E5%9B%BE20210526080430.png)
 
 三. 试写出“学生框架”的描述。
 
