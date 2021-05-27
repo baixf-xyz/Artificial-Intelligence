@@ -128,15 +128,19 @@
 
 类别：（<幼儿园学生>、<小学生>、<中学生>、<高等院校学生>）
 
+#### 第三章-搜索策略
 
+##### 实验课-03
 
+#### 用启发式搜索算法A或者A*解决下面的八数码问题，并给出搜索结束时OPEN表和CLOSE表内容
 
+评价函数 f(x) = g(x) + h(x)，其中h(x)的含义可以自己定义。
 
+![eight-figure-puzzle](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//eight-figure-puzzle.png)
 
+![image-20210527172546127](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210527172546127.png)
 
-
-
-
+![image-20210527172726627](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210527172726627.png)
 
 
 
