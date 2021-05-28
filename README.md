@@ -140,7 +140,9 @@
 
 **解：**
 
-![](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//Astar.PNG)
+![Astar](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//Astar.png)
+
+![image-20210528134830288](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210528134830288.png)
 
 
 
