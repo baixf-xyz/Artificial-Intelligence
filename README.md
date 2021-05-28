@@ -132,21 +132,15 @@
 
 ##### 实验课-03
 
-#### 用启发式搜索算法A或者A*解决下面的八数码问题，并给出搜索结束时OPEN表和CLOSE表内容
+用启发式搜索算法A或者A*解决下面的八数码问题，并给出搜索结束时OPEN表和CLOSE表内容
 
 评价函数 f(x) = g(x) + h(x)，其中h(x)的含义可以自己定义。
 
 ![eight-figure-puzzle](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//eight-figure-puzzle.png)
 
-![image-20210527172546127](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210527172546127.png)
+**解：**
 
-![image-20210527172726627](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210527172726627.png)
-
-
-
-
-
-
+![](https://gitee.com/bai_xiao_fei/picture/raw/master/2021-5-28/1622176854931-Astar.PNG)
 
 
 
