@@ -166,17 +166,17 @@
 
 目标取反化子句集:
 
-~(∃x){[P(x)→P(A)]∧[P(x)→P(B)]}
+~ (∃x){[P(x)→P(A)]∧[P(x)→P(B)]}
 
-~(∃x){[~P(x)∨P (A) ]∧[~P(x)∨P(B)]}
+~ (∃x){[~ P(x)∨P (A) ]∧[~ P(x)∨P(B)]}
 
-(∀x){[P(x)∧~P(A)]∨[P(x)∧~P(B)]}
+(∀x){[P(x)∧~ P(A)]∨[P(x)∧~ P(B)]}
 
-(∀x){[P(x)∧~P(A)]∨P(x)}^{[P(x)∧~P(A)]∨~P(B)}}
+(∀x){[P(x)∧~ P(A)]∨P(x)}^{[P(x)∧~ P(A)]∨~ P(B)}}
 
-(∀x){P(x)∧[~P(A)∨P(x)]^[P (x)∨~P(B)]^[~P(A)∨~P(B)]}
+(∀x){P(x)∧[~ P(A)∨P(x)]^[P (x)∨~ P(B)]^[~ P(A)∨~ P(B)]}
 
-P(x)∧[~P(A)∨P(x)]∧[P(x)∨~P(B)]^[~P(A)∨~P(B)]
+P(x)∧[~ P(A)∨P(x)]∧[P(x)∨~ P(B)]^[~ P(A)∨~ P(B)]
 
 得子句集:
 
@@ -186,6 +186,6 @@ P(x)∧[~P(A)∨P(x)]∧[P(x)∨~P(B)]^[~P(A)∨~P(B)]
 
 3、P(x3)∨~P(B)
 
-4、~P(A)∨~P(B)
+4、~ P(A)∨~ P(B)
 
 ![image-20210603164651177](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210603164651177.png)
