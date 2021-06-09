@@ -144,11 +144,48 @@
 
 ![OC](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//OC.png)
 
+##### 实验课-04
 
+1. 把下面的谓词公式化成子句集
 
+![lab4-q1](https://lqin2333.gitee.io/artificial_intelligence_class/images/lab4-q1.JPG)
 
+解：原式=>(∀x)(∃y)(P(x, y)v(~Q(x,y)vR(x,y)))
 
+=>(∀x)(P(x,f(x))v(~Q(x, f(x) )vR(x, f (x))))
 
+所求子句集为S={P(x,f(x))v(~Q(x,f(x))vR(x,f(x,y)))
 
+2. 用归结反演法证明下面公式的永真性
 
+[提示:先否定它，然后化成子句集，再实施归结和置换，得到最终的NIL(空子句)] 
 
+![lab4-q2](https://lqin2333.gitee.io/artificial_intelligence_class/images/lab4-q2.JPG)
+
+(∃x) {[P(x)→P(A)]∧[P(x)→P(B)]}
+
+目标取反化子句集:
+
+~(∃x){[P(x)→P(A)]∧[P(x)→P(B)]}
+
+~(∃x){[~P(x)∨P (A) ]∧[~P(x)∨P(B)]}
+
+(∀x){[P(x)∧~P(A)]∨[P(x)∧~P(B)]}
+
+(∀x){[P(x)∧~P(A)]∨P(x)}^{[P(x)∧~P(A)]∨~P(B)}}
+
+(∀x){P(x)∧[~P(A)∨P(x)]^[P (x)∨~P(B)]^[~P(A)∨~P(B)]}
+
+P(x)∧[~P(A)∨P(x)]∧[P(x)∨~P(B)]^[~P(A)∨~P(B)]
+
+得子句集:
+
+1、P(x1)
+
+2、~P(A)∨P{x2}
+
+3、P(x3)∨~P(B)
+
+4、~P(A)∨~P(B)
+
+![image-20210603164651177](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210603164651177.png)
