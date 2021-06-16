@@ -189,3 +189,42 @@ P(x)∧[~ P(A)∨P(x)]∧[P(x)∨~ P(B)]^[~ P(A)∨~ P(B)]
 4、~ P(A)∨~ P(B)
 
 ![image-20210603164651177](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210603164651177.png)
+
+#### 第三章-确定性推理
+
+##### 实验课-05
+
+1.设有如下知识:
+
+R: IF E1 THEN (20,1) H1(0.06)
+R2: IF E2 THEN (10,1) H2(0.05)
+R3: IF E3 THEN (1,0.08) H3(0.4)
+
+求: 当证据E1, E2, E3存在时, P(Hi | Ei) 的值各是多少?
+
+![image-20210616232752111](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210616232752111.png)
+
+2.设有如下规则:
+
+R1: IF E1 THEN H (0.8)
+R2: IF E2 THEN H (0.6)
+R: IF E3 THEN H (-0.5)
+R4: IF E4 AND (E5 OR E6) THEN E1 (0.7)
+Rs :IF E7 AND E8 THEN E3 (0.9)
+且已知
+CF(E2) = 0.8, CF(E4) = 0.5, CF(E5) = 0.6, CF(E6) = 0.7, CF(E7) = 0.6, CF(E8) = 0.9
+
+求: H 的综合可信度 CF(H)。
+
+![image-20210616232637352](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210616232637352.png)
+
+![image-20210616232707621](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210616232707621.png)
+
+3.设 Ω = {红,黄,绿}, 有如下概率分配函数
+
+m({∅},{红}, {黄}, {红, 黄}, {绿}, {红, 黄, 绿}) = (0, 0.5, 0.2, 0.1, 0.1, 0.1)
+设 A = {红, 黄},
+
+求:m(Ω)、Bel(A) 和 Pl(A) 的值。
+
+![image-20210616232727684](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//image-20210616232727684.png)
